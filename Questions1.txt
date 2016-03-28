@@ -1,0 +1,45 @@
+Which Actor played "The joker" in the movie "The Dark Knight?"
+4
+Heath Ledger
+Christian Bale
+James Franco
+Ben Kingsley
+1
+0
+0
+Which soccer player plays for Liverpool FC?
+4
+Wayne Rooney
+Jamie Vardy
+Christian Benteke
+Christiano Ronaldo
+3
+0
+0
+Which poet wrote "Quoth the Raven “Nevermore.”?"
+4
+William Wordsworth
+Edgar Allen Poe
+John Keats
+Shel Silverstein
+2
+0
+0
+Which person famously contributed to the field of "Game Theory?"
+4
+Georges Anderla
+Thomas Atwood
+Edith Abbott
+John Nash
+4
+0
+0
+Which iPhone app am I addicted to?
+4
+Clash of Clans
+Flappy Bird
+Candy Crush
+Temple Run
+1
+0
+0
