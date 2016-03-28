@@ -1,2 +1,4 @@
 # Lab3
-This is the third lab
+This repository includes Lab10 and future labs
+
+This repo also includes assignment 3
